@@ -12,6 +12,8 @@ This tutorial outlines the creation of administrative users in Active Directory 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Client-1 virtual machine
+- DC-1 virtual machine
 
 *Using remote desktop connect to the client-1 virtual machine*
 *Using remote desktop log onto the DC-1 virtual machine using the fully qualified domain name*
